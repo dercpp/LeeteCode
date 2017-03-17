@@ -27,6 +27,9 @@
     <ClInclude Include="HammingDistance.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="FizzBuzz.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -36,6 +39,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="HammingDistance.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FizzBuzz.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
