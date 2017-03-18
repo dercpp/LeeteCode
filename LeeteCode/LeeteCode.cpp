@@ -14,7 +14,10 @@ int main()
 		cout << var << endl;
 	}
 	cout << endl;
-
+	cout << LeeteCode.reverseString("Hello") << endl;
+	cout << endl;
+	cout << LeeteCode.decode(LeeteCode.encode("https://leetcode.com/problems/design-tinyurl")) << endl;
+	cout << endl;
     return 0;
 }
 
