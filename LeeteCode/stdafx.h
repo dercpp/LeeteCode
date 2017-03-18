@@ -11,9 +11,9 @@
 #include <tchar.h>
 #include <iostream>
 #include <string>
+#include <vector>
 
-#include "HammingDistance.h"
-#include "FizzBuzz.h"
+#include "Solution.h"
 
 
 

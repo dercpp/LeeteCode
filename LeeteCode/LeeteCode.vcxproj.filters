@@ -24,10 +24,7 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="HammingDistance.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="FizzBuzz.h">
+    <ClInclude Include="Solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
@@ -38,10 +35,7 @@
     <ClCompile Include="LeeteCode.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="HammingDistance.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="FizzBuzz.cpp">
+    <ClCompile Include="Solution.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
